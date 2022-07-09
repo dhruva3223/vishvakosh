@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% load static %}
+{% block title %}
+{{ title }}
+{% endblock %}
+
+{% block body %}
+{% if image_existence %}
+<div class="image_filter">
+<img height="150px" src="{% static 'picture/' %}{{title}}.png"/>
+</div>
+{% endif %}
+
+{{ contents |safe }}
+<a href="{% url 'editEntry' entry %}">Edit page</a>
+
+{% endblock %}

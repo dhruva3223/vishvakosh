@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-bottom: 50px;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 50vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding-left: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 3%;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+ }
+sidebartext{
+    color: aliceblue;
+}
+
+.image_filter{
+    text-align: center;
+    border-style: double;
+    border-width: 5px;
+    padding: 10px;
+    margin-bottom: 30px;
+    width: 50%;
+}
