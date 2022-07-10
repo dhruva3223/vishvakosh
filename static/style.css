@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    background-color: white;
+    color: white !important;
+    background-color: #181A1B !important;
     overflow-x: hidden;
     padding-bottom: 50px;
 }
@@ -30,14 +31,14 @@ textarea {
 }
 
 .sidebar {
-    background-color: #f0f0f0;
+    background-color: #202325;
     height: 100vh;
-    padding-left: 20px;
+    padding-left: 20px !important;
 }
 
 .sidebar h2 {
     margin-top: 5px;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 700;
     padding-left: 3%;
 }
@@ -50,11 +51,9 @@ footer {
     color: white;
     text-align: center;
  }
-sidebartext{
-    color: aliceblue;
-}
 
 .image_filter{
+    background-color: #323638;
     text-align: center;
     border-style: double;
     border-width: 5px;
