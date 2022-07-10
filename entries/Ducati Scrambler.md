@@ -1,0 +1,1 @@
+The Ducati Scrambler was the brand name for a series of single cylinder scrambler motorcycles made by Ducati for the American market from 1962 until 1974. Its creation is attributed to the American Berliner Motor Corporation. Models were produced in 250 cc through 450 cc displacements.

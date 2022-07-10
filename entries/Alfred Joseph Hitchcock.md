@@ -1,0 +1,1 @@
+Sir Alfred Joseph Hitchcock KBE was an English filmmaker widely regarded as one of the most influential figures in the history of cinema. In a career spanning six decades, he directed over 50 feature films, many of which are still widely watched and studied today.

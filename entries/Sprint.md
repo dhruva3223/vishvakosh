@@ -1,0 +1,1 @@
+Sprinting is running over a short distance at the top-most speed of the body in a limited period of time. It is used in many sports that incorporate running, typically as a way of quickly reaching a target or goal, or avoiding or catching an opponent.
